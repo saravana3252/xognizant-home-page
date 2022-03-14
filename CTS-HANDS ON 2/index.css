@@ -1,0 +1,1738 @@
+.myalert {
+  background-color: #666;
+  color: white;
+}
+.covid-color {
+  color: #00b140;
+}
+.myalert {
+  text-align: center;
+}
+.mybtn {
+  background-color: #666;
+  color: white;
+  border: 1px solid white;
+  margin-left: 10px;
+  border-radius: 20px;
+}
+.mybtn:hover {
+  color: white;
+  background-color: red;
+}
+.btn1 {
+  background-color: #00b140;
+  color: white;
+}
+.btn1:hover {
+  background-color: #08993d;
+  color: white;
+}
+.navbar {
+  background-color: white !important;
+  margin: 0 !important;
+}
+.myheader {
+  height: 60px;
+  background-color: white;
+}
+
+.myheader h1 {
+  padding-left: 80px;
+}
+.nav2 {
+  font-size: 20px;
+  background-color: white;
+}
+.nav-item {
+  /* background-color: #00b140;*/
+  margin-right: 50px;
+}
+.nav-link {
+  transition: 0.3s;
+}
+.nav-link:hover {
+  background-color: #0033a0;
+  color: white !important;
+}
+
+.nav1 {
+  color: #0033a1 !important;
+  font-size: 40px !important;
+}
+.h-p {
+  font-size: 25px;
+  color: #0033a1;
+  margin-left: 0.5%;
+}
+.lead {
+  font-size: 30px;
+  margin-top: 10px;
+  color: lightgray;
+}
+
+.navbar-collapse {
+  transition: 0.5s;
+  background-color: white;
+  justify-content: flex-end;
+}
+
+.banner {
+  height: 82vh;
+  /*background-color: gray;*/
+  background-image: url("https://www.cognizant.com/content/dam/cognizant/en_us/dotcom/images/neuro-desktop.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 0px !important;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 82vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.overlay-content {
+  height: 56vh;
+  /*background-color: red;*/
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 2vh;
+  border-radius: 40px;
+
+  margin-left: 1%;
+}
+.overlay-content h1 {
+  color: white;
+  font-weight: bolder;
+  font-size: 50px;
+}
+.overlay-content p {
+  color: white;
+
+  font-size: 20px;
+}
+.row {
+  display: flex;
+  justify-content: space-evenly;
+}
+.c1 {
+  padding-top: 20px;
+  height: 150px;
+  /*background-color: #666;*/
+}
+.c1 h1 {
+  color: #0033a0;
+  font-size: 45px;
+}
+.c1 p {
+  font-size: 18px;
+}
+.c2 {
+  /*background-color: aquamarine;*/
+  height: 700px;
+}
+.myc {
+  height: 800px;
+  background: #e6e6e6;
+}
+.mycard {
+  width: 350px;
+  height: 550px;
+}
+.p-title {
+  color: #0033a0;
+}
+.card-body h3 {
+  color: #0033a0;
+}
+.card-btn {
+  color: #00b140;
+  font-weight: 500;
+  /*background-color: #000063;*/
+  padding: 0;
+}
+.card-btn:hover {
+  color: #00b140;
+}
+
+.cog-info {
+  /*background-color: #00b140;*/
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.cog-info h6 {
+  line-height: 60px;
+  font-size: 34px;
+  color: #0033a0;
+  font-weight: 450;
+}
+.con-browse {
+  height: auto;
+  background-color: #0033a0;
+  display: flex;
+}
+.brow-content {
+  height: 320px;
+  /*background-color: red;*/
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  color: white;
+  margin-top: 20px;
+}
+.brow-btn {
+  color: white;
+  background-color: #00b140;
+  font-weight: 500;
+}
+
+.brow-img {
+  /*background-color: #666;*/
+  height: 320px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
+.contf-india {
+  height: 1000px;
+  background-color: #fcf0fb;
+  padding-top: 60px;
+}
+.cont-india {
+  /*background-color: #666;*/
+  height: 130px;
+  width: 81%;
+}
+.cont-india h3 {
+  font-size: 48px;
+  color: #0033a0;
+}
+.cont-india p {
+  font-size: 23px;
+  color: black;
+}
+.cog-info-india {
+  /*background-color: aquamarine;*/
+  margin-top: 15px;
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cog-india-content {
+  width: 48%;
+  background-color: #00b140;
+  height: 300px;
+  margin-left: 2%;
+  display: flex;
+  align-items: flex-end;
+}
+.cog-img-style1 {
+  background-image: url("https://images.pond5.com/team-indian-office-employees-discussing-088720859_prevstill.jpeg");
+  background-size: cover;
+}
+.cog-img-content {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  width: 100%;
+  height: 100px;
+  font-size: 26px;
+  text-align: center;
+  line-height: 100px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.cog-img-content:hover {
+  height: 200px;
+}
+.cog-img-content1 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  width: 100%;
+  height: 100px;
+  font-size: 26px;
+  text-align: center;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.cog-img-content1:hover {
+  height: 200px;
+}
+
+.cog-img-style2 {
+  background-image: url("https://gumlet.assettype.com/swarajya%2F2021-10%2Fff75edac-6933-480a-ac56-42636a893e83%2Fpjimage__97_.jpg?q=75&auto=format%2Ccompress&w=1200");
+  background-size: cover;
+}
+.cog-img-style3 {
+  background-image: url("https://media.istockphoto.com/photos/group-of-call-center-executives-working-during-their-shift-picture-id1144313163?k=20&m=1144313163&s=612x612&w=0&h=ZZ-tVCKPFcC6xyJ5kmviyDPsSTG_JC47OhgKHvAFsts=");
+  background-size: cover;
+}
+.cog-img-style4 {
+  background-image: url("https://www.acclino.com/wp-content/uploads/Pharma-Image-3-1200x800.jpg");
+  background-size: cover;
+}
+
+.footer {
+  background-color: white;
+  height: 500px;
+  width: 100%;
+}
+.container5 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.myacc {
+  width: 25%;
+  height: auto;
+  /*background-color: red;*/
+  margin-top: 20px;
+}
+.acc-h {
+  font-size: 18pt;
+  color: blue;
+}
+.acc-d {
+  font-size: 16pt;
+  margin-top: 10px;
+  color: black;
+}
+.myacc2 {
+  width: 25%;
+  height: auto;
+  background-color: white;
+
+  margin-top: 20px;
+}
+.myacc3 {
+  width: 20%;
+  height: auto;
+  background-color: white;
+
+  margin-top: 20px;
+}
+.myacc4 {
+  width: 20%;
+  height: auto;
+  background-color: white;
+
+  margin-top: 20px;
+}
+
+.cog-services {
+  /*background-color: orange;*/
+  height: 700px;
+}
+.cog-service-img {
+  /*background-color: #666;*/
+  height: 700px;
+  background-image: url("https://www.cognizant.com/content/dam/cognizant/en_us/in/dotcom/images/services-india-hp-parallax-banner.jpg");
+  background-attachment: fixed;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.cog-service-title {
+  height: 230px;
+  /*background-color: #0033a1;*/
+  padding-left: 10%;
+  padding-top: 60px;
+}
+.cog-service-title h6 {
+  font-size: 17px;
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 40px;
+}
+.cog-service-title h1 {
+  margin-top: 60px;
+  font-size: 50px;
+  color: white;
+}
+.mycon-cog-service {
+  height: 470px;
+  /*background-color: #00b140;*/
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+}
+.cog-service-content {
+  height: 350px;
+  /*background-color: red;*/
+  width: 80%;
+  margin-left: 10%;
+}
+.cog-service-content1 {
+  height: 100px;
+  background-color: #0033a0;
+  display: flex;
+}
+.cog-service-content1-t {
+  /*background-color: #0033a0;*/
+  color: white;
+  height: 100px;
+  width: 40%;
+  text-align: center;
+  padding-top: 35px;
+}
+.cog-service-content1-t-c {
+  width: 60%;
+  /*background-color:#0033a0;*/
+  color: white;
+  height: 100px;
+  padding-top: 20px;
+  font-size: 19px;
+}
+.cog-service-content2 {
+  height: 150px;
+  background-color: #001a82;
+  display: flex;
+}
+.cog-service-content2-t {
+  /*background-color: black;*/
+  color: white;
+  height: 150px;
+  width: 40%;
+  text-align: center;
+  padding-top: 40px;
+}
+.cog-service-content2-t-c {
+  width: 60%;
+  /*background-color: rosybrown;*/
+  color: white;
+  height: 150px;
+  padding-top: 25px;
+  font-size: 19px;
+}
+.cog-service-content3 {
+  height: 100px;
+  background-color: #000063;
+  display: flex;
+}
+.cog-service-content3-t {
+  /*background-color: orange;*/
+  color: white;
+  height: 100px;
+  width: 40%;
+  text-align: center;
+  padding-top: 35px;
+}
+.cog-service-content3-t-c {
+  width: 60%;
+  /*background-color: lightpink;*/
+  color: white;
+  height: 100px;
+  padding-top: 20px;
+  font-size: 19px;
+}
+.cont-video {
+  height: 500px;
+  background-image: url("https://www.cognizant.com/content/dam/cognizant/en_us/dotcom/images/outreachbanner-desktop.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding-top: 90px;
+  padding-left: 100px;
+}
+.video-content {
+  padding: 20px;
+  height: 350px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.video-content h1 {
+  font-size: 50px;
+  color: white;
+}
+.video-content h4 {
+  color: #08993d;
+  margin-top: 20px;
+}
+.contf-details {
+  height: 1300px;
+  background-color: whitesmoke;
+}
+.heading {
+  height: 200px;
+  /*background-color: #08993d;*/
+  padding-top: 50px;
+}
+.heading h1 {
+  font-size: 45px;
+  text-align: center;
+  color: #0033a0;
+}
+.heading h6 {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 10px;
+}
+.input-det {
+  height: 1050px;
+  background-color: #e6e6e6;
+  padding-top: 20px;
+}
+.input-det input {
+  height: 35px;
+  width: 100%;
+  margin-top: 20px;
+}
+.move-cont {
+  /*background-color: #0033a1;*/
+  padding-left: 30%;
+  width: 100%;
+  height: 1300px;
+}
+.input-det label {
+  font-size: 20px;
+  margin-top: 20px;
+}
+.input-det select {
+  font-size: 20px;
+  margin-top: 20px;
+}
+.form-control {
+  width: 50% !important;
+}
+.form-select {
+  width: 50% !important;
+}
+textarea {
+  margin-top: 10px;
+  height: 200px;
+  width: 50%;
+}
+.mybtn-submit {
+  margin-top: 20px;
+  width: 30%;
+  margin-left: 10%;
+}
+.card-title {
+  font-weight: 650;
+}
+.social-foot {
+  height: 60px;
+  background-color: #e6e6e6;
+  display: flex;
+}
+.icons {
+  width: 30%;
+  height: 60px;
+  margin-left: 6%;
+  /*background-color: gold;*/
+  padding-top: 20px;
+}
+.fa-linkedin {
+  font-size: 30px;
+  color: #00b140;
+}
+.fa-twitter {
+  font-size: 30px;
+  color: #00b140;
+  margin-left: 30px;
+}
+.fa-facebook {
+  font-size: 30px;
+  color: #00b140;
+  margin-left: 30px;
+}
+.fa-instagram {
+  font-size: 30px;
+  color: #00b140;
+  margin-left: 30px;
+}
+.fa-youtube-play {
+  font-size: 30px;
+  color: #00b140;
+  margin-left: 30px;
+}
+.side-info {
+  /*background-color: #001a82;*/
+  width: 80%;
+  display: flex;
+  padding-top: 15px;
+}
+.side-info h6 {
+  margin-left: 2%;
+  /*background-color: #00b140;*/
+  width: 15%;
+  text-align: center;
+  line-height: 34px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.side-info h6:hover {
+  background-color: #c5c3c3;
+}
+.side-info p {
+  margin-left: 1%;
+  margin-top: 2px;
+}
+@media (max-width: 791px) {
+  .social-foot {
+    height: auto;
+    background-color: #e6e6e6;
+    display: flex;
+    flex-direction: column;
+  }
+  .icons {
+    width: auto;
+    height: auto;
+
+    /*background-color: gold;*/
+    padding-top: 20px;
+  }
+  .fa-linkedin {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-twitter {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-facebook {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-instagram {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-youtube-play {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .side-info {
+    /*background-color: #001a82;*/
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+  }
+  .side-info h6 {
+    margin-left: 2%;
+    /*background-color: #00b140;*/
+    width: auto;
+    text-align: center;
+    line-height: 34px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .side-info h6:hover {
+    background-color: #c5c3c3;
+  }
+  .side-info p {
+    margin-left: 1%;
+    margin-top: 2px;
+  }
+
+  .myheader h1 {
+    padding-left: 10px;
+  }
+  .lead {
+    display: none;
+  }
+  .h-p {
+    display: none;
+  }
+
+  .mybtn {
+    font-size: 11px;
+    margin-top: 5px;
+  }
+  .banner {
+    height: 52vh;
+  }
+  .overlay {
+    height: 52vh;
+  }
+  .overlay-content h1 {
+    font-size: 4vh;
+  }
+  .overlay-content p {
+    font-size: 2vh;
+  }
+  .overlay-content {
+    width: 70%;
+    height: auto;
+    /*align-items: flex-start;*/
+  }
+  .nav-b {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .btn1 {
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .btn2 {
+    margin-right: 10px;
+    width: 60%;
+  }
+  .container5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .footer {
+    height: auto;
+  }
+  .myacc {
+    width: 50%;
+    height: auto;
+    background-color: white;
+    margin-top: 20px;
+  }
+  .acc-h {
+    font-size: 18pt;
+    color: blue;
+  }
+  .acc-d {
+    font-size: 16pt;
+    margin-top: 10px;
+    color: black;
+  }
+  .myacc2 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .myacc3 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .myacc4 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .cog-info h6 {
+    font-size: 20px;
+    line-height: 40px;
+  }
+  .con-browse {
+    display: flex;
+    flex-direction: column-reverse;
+    height: auto;
+  }
+  .brow-content {
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    text-align: center;
+  }
+  .brow-img {
+    /*background-color: red;*/
+    width: 100%;
+  }
+  .img-brow {
+    width: 100%;
+    height: auto;
+  }
+  .contf-india {
+    padding-bottom: 50px;
+  }
+  .cog-img-content {
+    font-size: 23px;
+    line-height: 50px;
+  }
+  .cog-info-india {
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: space-between;
+
+    height: auto;
+  }
+  .contf-india {
+    height: auto;
+  }
+  .cont-india {
+    height: auto;
+  }
+  .cont-india h3 {
+    font-size: 35px;
+  }
+  .cont-india p {
+    font-size: 20px;
+  }
+  .cog-india-content {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .cog-img-content1 {
+    font-size: 23px;
+  }
+  .cog-services {
+    height: auto;
+    padding-bottom: 50px;
+  }
+  .cog-service-img {
+    height: auto;
+  }
+  .cog-service-title {
+    height: auto;
+    width: 60%;
+  }
+  .cog-service-title h6 {
+    font-size: 16px;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 30px;
+  }
+  .cog-service-title h1 {
+    margin-top: 40px;
+    font-size: 40px;
+    color: white;
+  }
+  .mycon-cog-service {
+    height: auto;
+    /*background-color: #00b140;*/
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+  .cog-service-content {
+    height: auto;
+    /*background-color: red;*/
+    width: 80%;
+  }
+  .cog-service-content1 {
+    height: auto;
+    background-color: #0033a0;
+    display: flex;
+    flex-direction: column;
+  }
+  .cog-service-content1-t {
+    /*background-color: #0033a0;*/
+    color: white;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .cog-service-content1-t-c {
+    width: auto;
+    /*background-color:#0033a0;*/
+    color: white;
+    height: auto;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 19px;
+  }
+  .cog-service-content2 {
+    height: auto;
+    background-color: #001a82;
+    display: flex;
+    flex-direction: column;
+  }
+  .cog-service-content2-t {
+    /*background-color: #0033a0;*/
+    color: white;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .cog-service-content2-t-c {
+    width: auto;
+    /*background-color:#0033a0;*/
+    color: white;
+    height: auto;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 19px;
+  }
+  .cog-service-content3 {
+    height: auto;
+    background-color: #000063;
+    display: flex;
+    flex-direction: column;
+  }
+  .cog-service-content3-t {
+    /*background-color: #0033a0;*/
+    color: white;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .cog-service-content3-t-c {
+    width: auto;
+    /*background-color:#0033a0;*/
+    color: white;
+    height: auto;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 19px;
+  }
+  .myc {
+    padding-bottom: 30px;
+  }
+  .c1 {
+    padding-top: 20px;
+    height: auto;
+    /*background-color: #666;*/
+  }
+  .c1 h1 {
+    color: #0033a0;
+    font-size: 45px;
+  }
+  .c1 p {
+    font-size: 18px;
+  }
+  .c2 {
+    /*background-color: aquamarine;*/
+    height: auto;
+  }
+  .myc {
+    height: auto;
+    background: #e6e6e6;
+  }
+
+  .mycard {
+    width: 350px;
+    margin-left: 1%;
+    margin-top: 20px;
+    height: auto;
+  }
+  .p-title {
+    color: #0033a0;
+  }
+  .card-body h3 {
+    color: #0033a0;
+  }
+  .card-btn {
+    color: #00b140;
+    font-weight: 500;
+    /*background-color: #000063;*/
+    padding: 0;
+  }
+  .card-btn:hover {
+    color: #00b140;
+  }
+  cont-video {
+    height: auto;
+    background-image: url("https://www.cognizant.com/content/dam/cognizant/en_us/dotcom/images/outreach-banner-tab.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 90px;
+    padding-left: 100px;
+  }
+  .video-content {
+    padding: 20px;
+    height: 180px;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .video-content h1 {
+    font-size: 20px;
+    color: white;
+  }
+  .video-content h4 {
+    color: #08993d;
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  .contf-details {
+    height: auto;
+    background-color: #e6e6e6;
+    padding-bottom: 20px;
+  }
+  .heading {
+    height: auto;
+    /*background-color: #08993d;*/
+    padding-top: 50px;
+  }
+  .heading h1 {
+    font-size: 45px;
+    text-align: center;
+    color: #0033a0;
+  }
+  .heading h6 {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .input-det {
+    height: auto;
+    background-color: whitesmoke;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .input-det input {
+    height: 35px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  .move-cont {
+    /*background-color: #0033a1;*/
+    padding-left: 30%;
+    width: 100%;
+    height: auto;
+  }
+  .input-det label {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  .input-det select {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  textarea {
+    margin-top: 10px;
+    height: 100px;
+    width: 60%;
+  }
+  .mybtn-submit {
+    margin-top: 20px;
+    width: 40%;
+    margin-left: 5%;
+  }
+  .form-control {
+    width: 80% !important;
+  }
+  .form-select {
+    width: 80% !important;
+  }
+}
+@media only screen and (max-width: 1194px) and (min-width: 991px) {
+  .cog-img-content {
+    font-size: 23px;
+    line-height: 100px;
+  }
+  .cog-img-content1 {
+    font-size: 23px;
+  }
+  .banner {
+    height: 52vh;
+  }
+  .btn1 {
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .cog-info h6 {
+    font-size: 25px;
+  }
+  .navbar-collapse {
+    height: 20px;
+  }
+  .lead {
+    display: none;
+  }
+  .h-p {
+    display: none;
+  }
+  .overlay {
+    height: 52vh;
+  }
+  .overlay-content {
+    height: auto;
+    width: 50%;
+  }
+  .overlay-content h1 {
+    font-size: 4vh;
+  }
+  .overlay-content p {
+    font-size: 2vh;
+  }
+  /*.container5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+  }*/
+
+  .footer {
+    height: auto;
+  }
+  .myacc {
+    width: 50%;
+    height: auto;
+    background-color: white;
+    margin-top: 20px;
+  }
+  .acc-h {
+    font-size: 18pt;
+    color: blue;
+  }
+  .acc-d {
+    font-size: 16pt;
+    margin-top: 10px;
+    color: black;
+  }
+  .myacc2 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .myacc3 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .myacc4 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .nav-b {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .brow-img {
+    /*background-color: red;*/
+    width: 100%;
+    height: 330px;
+  }
+  .img-brow {
+    width: 100%;
+
+    height: auto;
+  }
+  .cog-img-content {
+    font-size: 23px;
+  }
+  .cog-img-content1 {
+    font-size: 23px;
+  }
+  .cog-services {
+    /*background-color: orange;*/
+    height: auto;
+  }
+  .cog-service-img {
+    /*background-color: #666;*/
+    height: auto;
+  }
+  .cog-service-title {
+    height: auto;
+    /*background-color: #0033a1;*/
+    padding-left: 10%;
+    padding-top: 60px;
+  }
+  .cog-service-title h6 {
+    font-size: 16px;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 30px;
+  }
+  .cog-service-title h1 {
+    margin-top: 50px;
+    font-size: 50px;
+    color: white;
+  }
+  .mycon-cog-service {
+    height: 470px;
+    /*background-color: #00b140;*/
+    align-items: center;
+    justify-content: center;
+  }
+  .cog-service-content {
+    height: auto;
+    /*background-color: red;*/
+    width: 80%;
+    margin-left: 10%;
+  }
+  .cog-service-content1 {
+    height: auto;
+    background-color: #0033a0;
+    display: flex;
+  }
+  .cog-service-content1-t {
+    /*background-color: #0033a0;*/
+    color: white;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .cog-service-content1-t-c {
+    width: 60%;
+    /*background-color:#0033a0;*/
+    color: white;
+    height: auto;
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  .cog-service-content2 {
+    height: auto;
+    background-color: #001a82;
+    display: flex;
+  }
+  .cog-service-content2-t {
+    /*background-color: black;*/
+    color: white;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .cog-service-content2-t-c {
+    width: 60%;
+    /*background-color: rosybrown;*/
+    color: white;
+    height: auto;
+    padding-top: 25px;
+    font-size: 18px;
+  }
+  .cog-service-content3 {
+    height: auto;
+    background-color: #000063;
+    display: flex;
+  }
+  .cog-service-content3-t {
+    /*background-color: orange;*/
+    color: white;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .cog-service-content3-t-c {
+    width: 60%;
+    /*background-color: lightpink;*/
+    color: white;
+    height: auto;
+    padding-top: 20px;
+    font-size: 18px;
+  }
+
+  .c1 {
+    padding-top: 20px;
+    height: auto;
+    /*background-color: #666;*/
+  }
+  .c1 h1 {
+    color: #0033a0;
+    font-size: 45px;
+  }
+  .c1 p {
+    font-size: 18px;
+  }
+  .c2 {
+    /*background-color: aquamarine;*/
+    height: auto;
+    flex-direction: row;
+  }
+  .myc {
+    height: auto;
+    background: #e6e6e6;
+  }
+  .mycard {
+    width: 350px;
+    margin-left: 1%;
+    margin-top: 20px;
+    height: auto;
+  }
+  .p-title {
+    color: #0033a0;
+  }
+  .card-body h3 {
+    color: #0033a0;
+  }
+  .card-btn {
+    color: #00b140;
+    font-weight: 500;
+    /*background-color: #000063;*/
+    padding: 0;
+  }
+  .card-btn:hover {
+    color: #00b140;
+  }
+  .myc {
+    padding-bottom: 30px;
+  }
+  cont-video {
+    height: auto;
+    background-image: url("https://www.cognizant.com/content/dam/cognizant/en_us/dotcom/images/outreach-banner-tab.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 90px;
+    padding-left: 100px;
+  }
+  .video-content {
+    padding: 20px;
+    height: 200px;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .video-content h1 {
+    font-size: 25px;
+    color: white;
+  }
+  .video-content h4 {
+    color: #08993d;
+    margin-top: 10px;
+    font-size: 25px;
+  }
+  .social-foot {
+    height: auto;
+    background-color: #e6e6e6;
+    display: flex;
+    flex-direction: column;
+  }
+  .icons {
+    width: auto;
+    height: auto;
+
+    /*background-color: gold;*/
+    padding-top: 20px;
+  }
+  .fa-linkedin {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-twitter {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-facebook {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-instagram {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-youtube-play {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .side-info {
+    /*background-color: #001a82;*/
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+  }
+  .side-info h6 {
+    margin-left: 2%;
+    /*background-color: #00b140;*/
+    width: auto;
+    text-align: center;
+    line-height: 34px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .side-info h6:hover {
+    background-color: #c5c3c3;
+  }
+  .side-info p {
+    margin-left: 1%;
+    margin-top: 2px;
+  }
+}
+@media only screen and (max-width: 992px) and (min-width: 792px) {
+  .banner {
+    height: 52vh;
+  }
+  .btn1 {
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .cog-info h6 {
+    font-size: 25px;
+  }
+  .navbar-collapse {
+    height: 20px;
+  }
+  .lead {
+    display: none;
+  }
+  .h-p {
+    display: none;
+  }
+  .overlay {
+    height: 52vh;
+  }
+  .overlay-content {
+    height: auto;
+    width: 50%;
+  }
+  .overlay-content h1 {
+    font-size: 4vh;
+  }
+  .overlay-content p {
+    font-size: 2vh;
+  }
+  .mycard {
+    width: 100% !important;
+    margin-right: 30px;
+  }
+  .mycp {
+    margin-right: 30px;
+  }
+  .myb {
+    height: auto;
+  }
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .myc {
+    height: auto;
+  }
+  .package1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .p-h1 {
+    width: 50%;
+    font-size: 30px;
+  }
+  .container5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .footer {
+    height: auto;
+  }
+  .myacc {
+    width: 50%;
+    height: auto;
+    background-color: white;
+    margin-top: 20px;
+  }
+  .acc-h {
+    font-size: 18pt;
+    color: blue;
+  }
+  .acc-d {
+    font-size: 16pt;
+    margin-top: 10px;
+    color: black;
+  }
+  .myacc2 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .myacc3 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .myacc4 {
+    width: 50%;
+    height: auto;
+    background-color: white;
+
+    margin-top: 20px;
+  }
+  .nav-b {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .brow-img {
+    /*background-color: red;*/
+    width: 100%;
+    margin-left: 20px;
+    height: 290px;
+  }
+  .img-brow {
+    width: 100%;
+    height: auto;
+  }
+  .cog-img-content {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .cog-img-content1 {
+    font-size: 23px;
+  }
+  .cog-services {
+    /*background-color: orange;*/
+    height: auto;
+  }
+  .cog-service-img {
+    /*background-color: #666;*/
+    height: auto;
+  }
+  .cog-service-title {
+    height: auto;
+    /*background-color: #0033a1;*/
+    padding-left: 10%;
+    padding-top: 60px;
+  }
+  .cog-service-title h6 {
+    font-size: 16px;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 30px;
+  }
+  .cog-service-title h1 {
+    margin-top: 50px;
+    font-size: 50px;
+    color: white;
+  }
+  .mycon-cog-service {
+    height: 470px;
+    /*background-color: #00b140;*/
+    align-items: center;
+    justify-content: center;
+  }
+  .cog-service-content {
+    height: auto;
+    /*background-color: red;*/
+    width: 80%;
+    margin-left: 10%;
+  }
+  .cog-service-content1 {
+    height: auto;
+    background-color: #0033a0;
+    display: flex;
+  }
+  .cog-service-content1-t {
+    /*background-color: #0033a0;*/
+    color: white;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .cog-service-content1-t-c {
+    width: 60%;
+    /*background-color:#0033a0;*/
+    color: white;
+    height: auto;
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  .cog-service-content2 {
+    height: auto;
+    background-color: #001a82;
+    display: flex;
+  }
+  .cog-service-content2-t {
+    /*background-color: black;*/
+    color: white;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .cog-service-content2-t-c {
+    width: 60%;
+    /*background-color: rosybrown;*/
+    color: white;
+    height: auto;
+    padding-top: 25px;
+    font-size: 18px;
+  }
+  .cog-service-content3 {
+    height: auto;
+    background-color: #000063;
+    display: flex;
+  }
+  .cog-service-content3-t {
+    /*background-color: orange;*/
+    color: white;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .cog-service-content3-t-c {
+    width: 60%;
+    /*background-color: lightpink;*/
+    color: white;
+    height: auto;
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  .row {
+    display: flex;
+    justify-content: space-evenly;
+    height: auto;
+    flex-direction: row;
+  }
+
+  .c1 {
+    padding-top: 20px;
+    height: auto;
+    /*background-color: #666;*/
+  }
+  .c1 h1 {
+    color: #0033a0;
+    font-size: 45px;
+
+    /*background-color: #00b140;*/
+  }
+
+  .c2 {
+    /*background-color: aquamarine;*/
+    height: auto;
+  }
+  .myc {
+    height: auto;
+    background: #e6e6e6;
+  }
+  .mycard {
+    width: 50% !important;
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .p-title {
+    color: #0033a0;
+  }
+  .card-body h3 {
+    color: #0033a0;
+    /*background-color: #666;*/
+  }
+  .card-btn {
+    color: #00b140;
+    font-weight: 500;
+    /*background-color: #000063;*/
+    padding: 0;
+  }
+  .card-btn:hover {
+    color: #00b140;
+  }
+  .myc {
+    padding-bottom: 30px;
+  }
+  cont-video {
+    height: auto;
+    background-image: url("https://www.cognizant.com/content/dam/cognizant/en_us/dotcom/images/outreach-banner-tab.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 90px;
+    padding-left: 100px;
+  }
+  .video-content {
+    padding: 20px;
+    height: 200px;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .video-content h1 {
+    font-size: 25px;
+    color: white;
+  }
+  .video-content h4 {
+    color: #08993d;
+    margin-top: 10px;
+    font-size: 25px;
+  }
+  .social-foot {
+    height: auto;
+    background-color: #e6e6e6;
+    display: flex;
+    flex-direction: column;
+  }
+  .icons {
+    width: auto;
+    height: auto;
+
+    /*background-color: gold;*/
+    padding-top: 20px;
+  }
+  .fa-linkedin {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-twitter {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-facebook {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-instagram {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .fa-youtube-play {
+    font-size: 25px;
+    color: #00b140;
+  }
+  .side-info {
+    /*background-color: #001a82;*/
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+  }
+  .side-info h6 {
+    margin-left: 2%;
+    /*background-color: #00b140;*/
+    width: auto;
+    text-align: center;
+    line-height: 34px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .side-info h6:hover {
+    background-color: #c5c3c3;
+  }
+  .side-info p {
+    margin-left: 1%;
+    margin-top: 2px;
+  }
+  .navbar {
+    background-color: white !important;
+    margin: 0 !important;
+  }
+  .myheader {
+    height: 60px;
+    background-color: white;
+  }
+
+  .myheader h1 {
+    padding-left: 20px;
+  }
+  .nav2 {
+    font-size: 20px;
+    /*background-color: red;*/
+    margin-top: 20px;
+  }
+  .nav-item {
+    /*background-color: #00b140;*/
+    margin-right: 10px;
+  }
+  .navbar-collapse {
+    transition: 0.5s;
+  }
+
+  .nav1 {
+    color: #0033a1 !important;
+    font-size: 40px !important;
+  }
+}
